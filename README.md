@@ -1,4 +1,5 @@
 # cloudstorage
+Hello peeps
 ☁️Created my OWN PERSONAL CLOUD STORAGE 💻💽
 
 Used File Cloud to create my own personal encrypted unlimited cloud storage
@@ -11,4 +12,4 @@ Used File Cloud to create my own personal encrypted unlimited cloud storage
 
 🙌Step 4 :- Create a user and enjoy unlimited cheap Cloud Storage by going to the Public IPv4 DNS address of your instance.
 
-Now everytime you upload a file on File Cloud the same file will be reflected on your Amazon S3😀
+Now everytime you upload a file on File Cloud the same file will be reflected on your Amazon S3😀 
